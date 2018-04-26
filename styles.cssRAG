@@ -1,0 +1,23 @@
+body {
+  background-color: #F0F8FF;
+}
+h1 {
+  text-align: center;
+  color: #191970;
+}
+ul.navigation li{
+  display: inline;
+  color: #191970;
+  font-weight: bold;
+  padding: 37px 37px 37px 37px;
+  font-size: 20px;
+}
+img {
+  width:auto;
+  height: auto;
+  object-fit: fill;
+  object-position: center;
+  border-style: double;
+  border: black
+  border-width: 3px 3px 3px 3px;
+}
